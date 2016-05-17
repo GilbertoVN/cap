@@ -1,9 +1,3 @@
-/* Bubble sort
-– quando dois elementos estão fora de ordem,
-troque-os de posição até que o i-ésimo elemento de maior valor do vetor
-seja levado para as posições finais do vetor
-– continue o processo até que todo o vetor esteja ordenado*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
