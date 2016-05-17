@@ -9,7 +9,7 @@ int main()
     int i,j;
     int menor,aux;
 
-    printf("Ordenacao de Vetores - Estilo Bubble Sort\nDigite %d valores para serem ordenados:\n",num);
+    printf("Ordenacao de Vetores - Estilo Selection Sort\nDigite %d valores para serem ordenados:\n",num);
 
     for (i=0;i<num;i++)
     {
